@@ -75,8 +75,4 @@ RSpec.configure do |config|
     mocks.verify_partial_doubles = true
   end
 =end
-
-  # --require rubocop-rspec \
-  # --only FactoryBot/AttributeDefinedStatically \
-  # --auto-correct
 end
